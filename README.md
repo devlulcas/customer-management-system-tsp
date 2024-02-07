@@ -6,10 +6,10 @@ OBS: Apesar do commit inicial ter sido feito no dia 07/02/2024, o projeto foi in
 
 ## Requisitos do sistema
 
-- Node
-- PNPM
-- Docker
-- Docker Compose
+- Node v21.4.0
+- PNPM 8.12.1
+- Docker 25.0.12
+- Docker Compose 1.29.2
 
 ## Instalação
 
